@@ -1,0 +1,12 @@
+html {
+    margin:0%;
+    padding:1px;
+    background: green;
+}
+section{
+    display: flex;
+}
+
+header img{
+    display: inline-block;
+}
