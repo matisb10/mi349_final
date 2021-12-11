@@ -98,12 +98,25 @@ h3{
 }
 
 .name{
-    border:3px solid black;
-    background: rgb(253, 253, 253);
+    border:3px solid rgb(193, 166, 204);
+    background: rgb(8, 8, 8);
+    color: whitesmoke;
+    padding:5px;
 }
 
 .headshot{
     height:200px;
     float:right;
-    
+    margin-left:8px;
+}
+
+.author{
+    border: 3px solid black;
+    background:rgb(227, 243, 242);
+    padding: 17px;
+
+}
+
+.line{
+    line-height: 1.5;
 }
